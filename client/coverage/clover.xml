@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1590752812892" clover="3.2.0">
+  <project timestamp="1590752812892" name="All files">
+    <metrics statements="12" coveredstatements="11" conditionals="12" coveredconditionals="9" methods="5" coveredmethods="4" elements="29" coveredelements="24" complexity="0" loc="12" ncloc="12" packages="3" files="4" classes="4"/>
+    <package name="Components.ProductCard">
+      <metrics statements="6" coveredstatements="5" conditionals="8" coveredconditionals="6" methods="2" coveredmethods="1"/>
+      <file name="index.js" path="/Users/tanerakhan/Desktop/untitled folder/client/src/Components/ProductCard/index.js">
+        <metrics statements="4" coveredstatements="3" conditionals="8" coveredconditionals="6" methods="2" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="10" count="0" type="cond" truecount="2" falsecount="2"/>
+      </file>
+      <file name="style.js" path="/Users/tanerakhan/Desktop/untitled folder/client/src/Components/ProductCard/style.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Utils">
+      <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+      <file name="seperator.js" path="/Users/tanerakhan/Desktop/untitled folder/client/src/Utils/seperator.js">
+        <metrics statements="2" coveredstatements="2" conditionals="4" coveredconditionals="3" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="cond" truecount="3" falsecount="1"/>
+      </file>
+    </package>
+    <package name="Utils.icons">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="index.js" path="/Users/tanerakhan/Desktop/untitled folder/client/src/Utils/icons/index.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
